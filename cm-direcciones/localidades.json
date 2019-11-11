@@ -1,0 +1,124 @@
+{
+"results" : [
+        {
+            "title" : "MUAC",
+            "subtitle" : "Museo de Arte",
+            "lat" : 19.3147,
+            "long" : -99.1854
+        },
+        {
+            "title" : "Universum",
+            "subtitle" : "Museo de Ciencia",
+            "lat" : 19.3114,
+            "long" : -99.1806
+        },
+        {
+            "title" : "Espacio Escultorico",
+            "subtitle" : "Zona cultural",
+            "lat" : 19.3188,
+            "long" : -99.1825
+        },
+        {
+            "title" : "Facultad de Ciencias",
+            "subtitle" : "Comedor",
+            "lat" : 19.3240,
+            "long" : -99.1802
+        },
+        {
+            "title" : "Facultad de Ingenieria",
+            "subtitle" : "Principal",
+            "lat" : 19.3317,
+            "long" : -99.1847
+        },
+        {
+            "title" : "Anexo de Ingenieria",
+            "subtitle" : "Anexo",
+            "lat" : 19.3256,
+            "long" : -99.1822
+        },
+        {
+            "title" : "Facultad de Medicina",
+            "subtitle" : "Anfiteatro",
+            "lat" : 19.3331,
+            "long" : -99.1803
+        },
+        {
+            "title" : "Facultad de Odontologia",
+            "subtitle" : "Odonto",
+            "lat" : 19.3343,
+            "long" : -99.1816
+        },
+        {
+            "title" : "Facultad de Ciencias Politicas y Sociales",
+            "subtitle" : "Mordor",
+            "lat" : 19.3187,
+            "long" : -99.1781
+        },
+        {
+            "title" : "Facultad de Contaduria",
+            "subtitle" : "Cafeteria",
+            "lat" : 19.3242,
+            "long" : -99.1846
+        },
+        {
+            "title" : "Facultad de Veterinaria y Zootecnia",
+            "subtitle" : "Zoologico",
+            "lat" : 19.3295,
+            "long" : -99.1773
+        },
+        {
+            "title" : "Facultad de Psicologia",
+            "subtitle" : "Loquero",
+            "lat" : 19.3349,
+            "long" : -99.1889
+        },
+        {
+            "title" : "Torre de Ingenieria",
+            "subtitle" : "Torre de Ingenieria",
+            "lat" : 19.3296,
+            "long" : -99.1823
+        },
+        {
+            "title" : "Instituto de Biologia",
+            "subtitle" : "Instituto de Biologia",
+            "lat" : 19.3206,
+            "long" : -99.1944
+        },
+        {
+            "title" : "Instituto de Ciencias del Marl y Limnologia",
+            "subtitle" : "ICMyL",
+            "lat" : 19.3289,
+            "long" : -99.1785
+        },
+        {
+            "title" : "Las Islas",
+            "subtitle" : "Las Islas",
+            "lat" : 19.3329,
+            "long" : -99.1851
+        },
+        {
+            "title" : "Facultad de Quimica",
+            "subtitle" : "Facultad de Quimica",
+            "lat" : 19.3319,
+            "long" : -99.1813
+        },
+        {
+            "title" : "Estadio Olimpico",
+            "subtitle" : "Estadio",
+            "lat" : 19.3319,
+            "long" : -99.1922
+        },
+        {
+            "title" : "Jardin Botanico",
+            "subtitle" : "Jardin Botanico",
+            "lat" : 19.3123,
+            "long" : -99.1961
+        },
+        {
+            "title" : "Estacion Pumabus",
+            "subtitle" : "Pumabus",
+            "lat" : 19.3244,
+            "long" : -99.1739
+        }
+    ]
+}
